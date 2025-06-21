@@ -1,2 +1,1 @@
-# Talk-2-Ride
 Talk2Ride is a voice enabled cab booking system designed for elderly people who cannot use smartphones efficiently for booking cabs. This app completely involves voice to voice interaction with users.
